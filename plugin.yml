@@ -1,0 +1,8 @@
+main: net.theuniverscraft.MineGun.MineGun
+name: MineGun
+version: 0.2
+commands:
+  minegun:
+    aliases: [mg, gun]
+    description: commande administateur pour le MineGun
+    usage: /<command> <args>
